@@ -1631,3 +1631,6 @@ footer .footer-nav li a:hover {
 .footer-bottom .footer-text a:hover {
   color: #00ff8c;
 }
+.logo img {
+    width: 55%;
+}

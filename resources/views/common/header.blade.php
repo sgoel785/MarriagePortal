@@ -4,7 +4,7 @@
         <div class="container">
             <div class="header-content d-flex justify-content-between align-items-center">
                 <div class="logo">
-                    <a href="#top" class="smooth"><img src="{{URL::asset('img/home/img/logo.png')}}" alt=""></a>
+                    <a href="#top" class="smooth"><img src="{{URL::asset('img/home/img/Invitation-Card.png')}}" alt=""></a>
                 </div>
                 <div class="right-bar d-flex align-items-center">
                     <nav class="d-flex align-items-center">
